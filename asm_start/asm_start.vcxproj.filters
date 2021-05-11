@@ -3,4 +3,7 @@
   <ItemGroup>
     <MASM Include="main.asm" />
   </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="main.cpp" />
+  </ItemGroup>
 </Project>
